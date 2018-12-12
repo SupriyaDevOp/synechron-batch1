@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "[ECHO] Running Job"
+echo "[INFO] Running Job"
+echo "[ECHO] File updated for the POLL SCM with CHMOD"
